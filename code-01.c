@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char text = "";
+    char text[] = "";
     printf("Hello");
     return 0;
 }
